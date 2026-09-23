@@ -1,4 +1,4 @@
-Writeups from open-source and security work — post-quantum cryptography, mostly.
+Writeups from open-source and security work, post-quantum cryptography, mostly.
 
 # Fixing a Broken `pip install --require-hashes` in liboqs's Root Dependency File
 
