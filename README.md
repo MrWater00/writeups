@@ -4,3 +4,4 @@ Writeups from open-source and security work, post-quantum cryptography mostly. E
 
 - [Fixing a broken `pip install --require-hashes` in liboqs's root dependency file](liboqs-requirements-fix.md)
 - [Hunting a timing side channel in liboqs's ML-KEM-768 decapsulation](ml-kem-768-timing-sidechannel.md)
+- [Formally validating liboqs's ML-KEM against NIST's FIPS 203 via ACVP](liboqs-acvp-validation.md)
